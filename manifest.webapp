@@ -1,7 +1,7 @@
 {
   "version": "1.1.2",
-  "name": "Taxis 4526",
-	"display name" : "Taxis 4526",
+  "name": "Taxissssss",
+	"display_name" : "Taxissssss",
   "description": "Find the closest taxi ranks. Get local taxi numbers.",
 	"subtitle": "Find the closest taxi",
   "type": "web",
@@ -18,8 +18,8 @@
   },
   "locales": {
     "en-GB": {
-			"name": "Taxis 4526",
-			"display name" : "Taxis 4526",
+			"name": "Taxissssss",
+			"display_name" : "Taxissssss",
       "subtitle": "Find the closest taxi",
       "description": "Find the closest taxi ranks. Get local taxi numbers."
     }
