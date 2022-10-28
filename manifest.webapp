@@ -1,11 +1,9 @@
 {
   "version": "1.1.2",
-  "name": "Taxissssss",
-	"display_name" : "Taxissssss",
+  "name": "Taxis",
   "description": "Find the closest taxi ranks. Get local taxi numbers.",
 	"subtitle": "Find the closest taxi",
   "type": "web",
-  "launch_path": "/taxis/index.html",
 	"origin": "app://victoriendotnet.github.io/taxis/",
   "icons": {
     "56": "/taxis/assets/appicon@56w.png",
@@ -18,8 +16,7 @@
   },
   "locales": {
     "en-GB": {
-			"name": "Taxissssss",
-			"display_name" : "Taxissssss",
+			"name": "Taxis",
       "subtitle": "Find the closest taxi",
       "description": "Find the closest taxi ranks. Get local taxi numbers."
     }
