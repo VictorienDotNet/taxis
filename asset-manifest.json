@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b8dc81f9.chunk.css",
+    "main.js": "./static/js/main.07222a4f.chunk.js",
+    "main.js.map": "./static/js/main.07222a4f.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.383195f3.js",
+    "runtime-main.js.map": "./static/js/runtime-main.383195f3.js.map",
+    "static/js/2.47e1aff9.chunk.js": "./static/js/2.47e1aff9.chunk.js",
+    "static/js/2.47e1aff9.chunk.js.map": "./static/js/2.47e1aff9.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.b8dc81f9.chunk.css.map": "./static/css/main.b8dc81f9.chunk.css.map",
+    "static/js/2.47e1aff9.chunk.js.LICENSE.txt": "./static/js/2.47e1aff9.chunk.js.LICENSE.txt",
+    "static/media/LocationDisabled.9c9d03a7.svg": "./static/media/LocationDisabled.9c9d03a7.svg",
+    "static/media/Card.module.css": "./static/media/phone.54a12326.svg",
+    "static/media/icon-review-negative-answer.7a05330e.svg": "./static/media/icon-review-negative-answer.7a05330e.svg",
+    "static/media/icon-review-positive-answer.2e2e654f.svg": "./static/media/icon-review-positive-answer.2e2e654f.svg",
+    "static/media/icon-review-question.d2b3009d.svg": "./static/media/icon-review-question.d2b3009d.svg",
+    "static/media/Onboarding.module.scss": "./static/media/mapmonde.d93865ee.svg",
+    "static/media/Leaflet.1.7.1.css": "./static/media/marker.ee8a36fa.svg",
+    "static/media/sign.98010a07.svg": "./static/media/sign.98010a07.svg",
+    "static/media/target.7390b2ad.svg": "./static/media/target.7390b2ad.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.383195f3.js",
+    "static/js/2.47e1aff9.chunk.js",
+    "static/css/main.b8dc81f9.chunk.css",
+    "static/js/main.07222a4f.chunk.js"
+  ]
+}
