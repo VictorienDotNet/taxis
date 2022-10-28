@@ -3,11 +3,11 @@
   "name": "Taxis",
   "description": "Find the closest taxi ranks. Get local taxi numbers.",
   "type": "web",
-  "launch_path": "/Taxis/index.html",
+  "launch_path": "/taxis/index.html",
   "icons": {
-    "56": "/Taxis/assets/appicon@56w.png",
-    "112": "/Taxis/assets/appicon@112w.png",
-    "128": "/Taxis/assets/appicon@128w.png"
+    "56": "/taxis/assets/appicon@56w.png",
+    "112": "/taxis/assets/appicon@112w.png",
+    "128": "/taxis/assets/appicon@128w.png"
   },
   "developer": {
     "name": "Taxis",
