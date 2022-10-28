@@ -4,7 +4,6 @@
   "description": "Find the closest taxi ranks. Get local taxi numbers.",
 	"subtitle": "Find the closest taxi",
   "type": "web",
-  "launch_path": "/taxis/index.html",
 	"origin": "app://victoriendotnet.github.io/taxis/",
   "icons": {
     "56": "/taxis/assets/appicon@56w.png",
