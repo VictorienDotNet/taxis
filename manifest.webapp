@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.2.1",
   "name": "Taxis",
 	"display": "Taxis",
   "description": "Find the closest taxi ranks. Get local taxi numbers.",
