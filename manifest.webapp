@@ -9,7 +9,7 @@
 	"origin": "app://victoriendotnet.github.io/taxis/",
   "icons": {
     "56": "/taxis/assets/appicon@56w.png",
-		"88":	"/taxis/assets/appicon@88w.png",
+		"84":	"/taxis/assets/appicon@84w.png",
     "112": "/taxis/assets/appicon@112w.png",
     "128": "/taxis/assets/appicon@128w.png"
   },
